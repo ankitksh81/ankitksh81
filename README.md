@@ -5,7 +5,7 @@
 <h3 align="left">Something About Me</h3>
   <p align="left">I love **Mountains** ⛰️</p>
   <p align="left">I love **Trees** 🌳</p>
-  <p align="left">Always love to read **Books** 📚</p>
+  <p align="left">Love to read **Books** 📚</p>
   
 <h3 align="left">Tech I know:</h3>
 
