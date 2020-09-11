@@ -2,12 +2,13 @@
 
 <h3 align="left">I'm currently pursuing my Computer Science Degree from REVA University, Bangalore, India.  🎓<h3>
 <hr>
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 <h3 align="left">Something About Me</h3>
   <p align="left">I love **Mountains** ⛰️</p>
   <p align="left">I love **Trees** 🌳</p>
   <p align="left">Love to read **Books** 📚</p>
   
-<h3 align="left">Tech I know:</h3>
+<h3 align="left">Technologies I know:</h3>
 
 <p align="left">Web Dev:</p>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/3b40f5c4cc89355edb33e86a93e919dd25c36a81/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" /> <img src="https://raw.githubusercontent.com/devicons/devicon/3b40f5c4cc89355edb33e86a93e919dd25c36a81/icons/react/react-original-wordmark.svg" alt="reactjs" width="50" height="50" /> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/></p>
