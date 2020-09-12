@@ -3,10 +3,10 @@
 <h3 align="left">I'm currently pursuing my Computer Science Degree from REVA University, Bangalore, India.  🎓<h3>
 <hr>
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-<h3 align="left">Something About Me</h3>
-  <p align="left">I love **Mountains** ⛰️</p>
-  <p align="left">I love **Trees** 🌳</p>
-  <p align="left">Love to read **Books** 📚</p>
+<h3 align="left">Somethings About Me</h3>
+1. I love **Mountains** ⛰️
+2. I love **Trees** 🌳
+3. Love to read **Books** 📚
   
 <h3 align="left">Technologies I know:</h3>
 
