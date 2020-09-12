@@ -4,9 +4,9 @@
 <hr>
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 <h3 align="left">Somethings About Me</h3>
-1. I love **Mountains** ⛰️
-2. I love **Trees** 🌳
-3. Love to read **Books** 📚
+  <P align="left">1. I love Mountains ⛰️ </p>
+  <P align="left">2. I love Trees 🌳 </p>
+  <P align="left">. Love to read Books 📚 </p>
   
 <h3 align="left">Technologies I know:</h3>
 
