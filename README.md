@@ -1,13 +1,18 @@
-<h1 align="center">Hey 👋, I'm Ankit :)</h1>
+![](https://komarev.com/ghpvc/?username=ankitksh81)
+
+<h1 align="center">Hey 👋, I'm Ankit</h1>
 
 <h3 align="left">I'm currently pursuing my Computer Science Degree from REVA University, Bangalore, India.  🎓<h3>
 <hr>
+<br />
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+  
 <h3 align="left">Somethings About Me</h3>
   <P align="left">1. I love Mountains ⛰️ </p>
   <P align="left">2. I love Trees 🌳 </p>
   <P align="left">3. Love to read Books 📚 </p>
-  
+
+<br />
 <h3 align="left">Technologies I know:</h3>
 
 <p align="left">Web Dev:</p>
@@ -15,3 +20,10 @@
 
 <P align="left">Programming Languages & Tools: </p>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </p>
+
+<br />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitksh81&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=ankitksh81&show_icons=true&count_private=true&hide=contribs,issues&theme=nord" alt="GitHub stats" />
+</p>
