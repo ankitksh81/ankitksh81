@@ -8,8 +8,8 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   
 <h3 align="left">Somethings About Me</h3>
-  <P align="left">1. I love Mountains ⛰️ </p>
-  <P align="left">2. I love Trees 🌳 </p>
+  <P align="left">1. I am not a morning person ;) </p>
+  <P align="left">2. I love Trees 🌳 & Mountains ⛰️ </p>
   <P align="left">3. Love to read Books 📚 </p>
 
 <br />
