@@ -14,8 +14,7 @@
 
 <br />
 <br />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitksh81&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=ankitksh81&show_icons=true&count_private=true&hide=contribs,issues&theme=nord" alt="GitHub stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitksh81&layout=compact&hide=makefile&theme=nord" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitksh81&show_icons=true&count_private=true&hide=contribs,issues&theme=nord" alt="GitHub stats" />
 </p>
