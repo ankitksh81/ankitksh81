@@ -23,7 +23,7 @@
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=ankitksh81&show_icons=true&count_private=true&hide=contribs,issues&theme=radical" alt="GitHub stats"/>
   </p>
-  <p align="center">
+  <p align="left">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitksh81&theme=blue-green" alt="GitHub Streak" />
     <br />
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitksh81&layout=compact&hide=makefile&theme=blue-green" alt="Most used languages" />
