@@ -1,9 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ankitksh81)
 
 <h1 align="center">Hey 👋, I'm Ankit</h1>
-
-<h3 align="left">I'm currently pursuing my Computer Science Degree from REVA University, Bangalore, India.  🎓<h3>
-<hr>
 <br />
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
   
